@@ -4,6 +4,7 @@ const App=()=>{
   return(
     <>
     <CounterApp/>
+    <h1>Hello</h1>
     </>
   )
 }
